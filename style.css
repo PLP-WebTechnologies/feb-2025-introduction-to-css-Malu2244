@@ -1,0 +1,36 @@
+/* Basic styling for the body */
+body {
+    font-family: 'Arial, sans-serif';
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the main heading */
+.main-heading {
+    color: #4a90e2;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Styling for the introductory text */
+#intro-text {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    border-left: 5px solid #4a90e2;
+    background-color: #e3f2fd;
+}
+
+/* Styling for the image */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border: 3px solid #4a90e2;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
